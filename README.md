@@ -1,4 +1,4 @@
-# Whatsapp With React Native
+# Whatsapp With React Native;
 
 In this project, I have designed a WhatsApp application and this only includes the section front part of WhatsApp and does not have a database.
 
